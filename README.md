@@ -1,6 +1,6 @@
 # SameGame (Projet Java - SAE DEV2.1)
 
-Ce projet est une implémentation du jeu **SameGame** en **Java**, développé dans le cadre de la **SAE DEV2.1** du **BUT Informatique**, au **semestre 2**.  
+Ce projet est une implémentation du jeu **SameGame** en **Java**, développé dans le cadre de la **SAE DEV2.1** de ma formation en **BUT Informatique**, au **semestre 2**.  
 Nous avons obtenu la **note de 16/20** pour ce projet.
 
 ## 🧩 Présentation
